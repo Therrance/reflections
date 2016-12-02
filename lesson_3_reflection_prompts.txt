@@ -7,13 +7,15 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Using auto commits, it could be some conflicts, if someone else change
+    Using auto pulls, it could be some conflicts, if someone else change
     your code.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Fork - copy from GitHub repo to GitHub repo;
+    Clone - copy repo to you local directory;
+    Branch - copy within you repository.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
