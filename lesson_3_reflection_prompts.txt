@@ -4,32 +4,37 @@ local?
     When I want to share my project with others or work with one codebase on various 
     hosts.
 
+
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
     Using auto pulls, it could be some conflicts, if someone else change
     your code.
 
+
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
     Fork - copy from GitHub repo to GitHub repo;
-    Clone - copy repo to you local directory;
-    Branch - copy within you repository.
+    Clone - copy repo to your local directory;
+    Branch - copy within your repository.
+
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     It's easier to merge you commits to local copy, than to the remote.
 
+
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Using common FTP directory, all changes set on Google Doc table. It's definetly easier 
+    Using common FTP directory, all changes set on Google Doc table. It's definitely easier 
     to use GitHub.
+    
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     I'm going to work in master branch when I work with project by myself, when 
-    there are more than one cpntributor you shold use various branches.
+    there are more than one contributor you should use various branches.
